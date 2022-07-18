@@ -15,6 +15,7 @@ Most bikes fall within checkout times of 2-22 minutes for all genders. Males hav
 ![pic5](https://user-images.githubusercontent.com/103381098/179587439-ed6e4440-2b67-417a-b393-18f11ca76c66.png)
 ![pic6](https://user-images.githubusercontent.com/103381098/179587526-af8cdce2-eb2d-4d34-bf06-19043f2b47d8.png)
 ![pic7](https://user-images.githubusercontent.com/103381098/179587597-d06ac38c-dfaa-4dea-bfe4-d8c5593c5bdb.png)
+Weekday usage is most common in two intervals, morning and evening. This is most likely Monday Friday and would explain users taking a bike on their commute to work. Saturday and Sunday are common in one interval between 10am and 6pm. Bike usage is high through this entire time. Males and females’ usage is consistent with overall findings with one exception. Males are predominantly heavy users. When looking at customers vs subscribers, there is no gender distribution for customers. Subscribers have more predominately male users with most used days being Thursday and Friday.
 
 ### Summary
 [link to dashboard] (https://public.tableau.com/app/profile/justin.darr/viz/BikeSharing_16579145101370/Dashboard1)

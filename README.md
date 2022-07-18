@@ -7,8 +7,16 @@ New York City's biksharing program, CitiBike, 2018 data was used to help create 
 The purpose of this project is to determine if Des Moines will be suitable for a bikesharing program.
 
 ## Analysis Checkout Times
+![pic3](https://user-images.githubusercontent.com/103381098/179587197-2584a690-611f-4f95-b7eb-b17cbe893e05.png)
+![pic4](https://user-images.githubusercontent.com/103381098/179587312-4127aa05-8071-435d-bac1-b492efda97cf.png)
+Most bikes fall within checkout times of 2-22 minutes for all genders. Males have the most check out times compared to females and unknown genders. The male’s highest duration is 5 minutes with over 108k bikes. Female’s is 6 minutes with over 34k bikes. Unknown genders are 11 minutes with over 7k bikes.
 
 ## Analysis Weekday Usage
+![pic5](https://user-images.githubusercontent.com/103381098/179587439-ed6e4440-2b67-417a-b393-18f11ca76c66.png)
+![pic6](https://user-images.githubusercontent.com/103381098/179587526-af8cdce2-eb2d-4d34-bf06-19043f2b47d8.png)
+![pic7](https://user-images.githubusercontent.com/103381098/179587597-d06ac38c-dfaa-4dea-bfe4-d8c5593c5bdb.png)
 
 ### Summary
 [link to dashboard] (https://public.tableau.com/app/profile/justin.darr/viz/BikeSharing_16579145101370/Dashboard1)
+![pic1](https://user-images.githubusercontent.com/103381098/179587707-0c4e1cdd-b96e-4b7a-8372-ab9a98f30fee.png)
+![pic2](https://user-images.githubusercontent.com/103381098/179587759-4e5c74c3-281b-4912-a10a-67ece92bea7e.png)
